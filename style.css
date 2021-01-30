@@ -1,0 +1,111 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #6c757d;
+    background-image: url(/Users/Jarrete/UConn-Coding-Boot-Camp/conn-virt-fsf-pt-01-2021-u-c/02-CSS-Bootstrap/02-Homework/Assets/Images/GrayBuilding.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+nav.navbar {
+    position: sticky;
+    top: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Chakra Petch';
+    font-size: 55px;
+    color: #212529e1;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Chakra Petch';
+    font-size: 13px;
+    font-weight: lighter;
+    color: snow;
+    opacity: 70%;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin: 10px; /* tb */
+}
+
+h5 {
+    opacity: 89%;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 11px;
+    opacity: 89%;
+}
+
+.card {
+    background-color: #212529e1;
+    color: snow;
+    text-align: center;
+    font-family: 'Chakra Petch';
+}
+
+.card:hover {
+    transform: scale(1.025);
+    box-shadow: 0 0 40px -10px #212529;
+}
+
+.btn:hover {
+    transform: scale(1.025);
+    box-shadow: 0 0 40px -10px #090a0a;
+}
+
+.navbar-brand:hover {
+    transform: scale(1.025);
+}
+
+.nav-link:hover {
+    transform: scale(1.025);
+}
+
+div.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: column;
+}
+
+div.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+
+div.col-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+
+.navbar-brand {
+    font-family: 'Chakra Petch';
+    opacity: 89%;
+}
+
+.nav-link {
+    font-family: 'Chakra Petch';
+}
+
+footer {
+    text-align: center;
+    font-family: 'Chakra Petch';
+    font-weight: bold;
+    font-size: 7px;
+    color: snow;
+    margin-top: auto;
+}
