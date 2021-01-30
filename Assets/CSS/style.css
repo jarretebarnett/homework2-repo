@@ -4,7 +4,7 @@ html {
 
 body {
     background-color: #6c757d;
-    background-image: url(/Users/Jarrete/UConn-Coding-Boot-Camp/conn-virt-fsf-pt-01-2021-u-c/02-CSS-Bootstrap/02-Homework/Assets/Images/GrayBuilding.jpeg);
+    background-image: url(../images/graybuilding.jpeg);
     background-attachment: fixed;
     background-size: cover;
     display: flex;
