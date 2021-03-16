@@ -27,10 +27,10 @@ SO THAT I can have a smooth navigation while surveying the subjects work.
 
 Provided below is a still display of the pages most recent aesthetic.
 
-![index](assets/Images/indexscreenshot.png)
+![index](assets/Images/indexscreenshoti.png)
 
-![portfolio](assets/Images/portfolioscreenshot.png)
+![portfolio](assets/Images/portfolioscreenshoti.png)
 
-![contact](assets/Images/contactscreenshot.png)
+![contact](assets/Images/contactscreenshoti.png)
 
 ![resume](assets/Images/resumescreenshot.png)
