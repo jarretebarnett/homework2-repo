@@ -32,3 +32,5 @@ Provided below is a still display of the pages most recent aesthetic.
 ![portfolio](assets/Images/portfolioscreenshot.png)
 
 ![contact](assets/Images/contactscreenshot.png)
+
+![resume](assets/Images/resumescreenshot.png)
