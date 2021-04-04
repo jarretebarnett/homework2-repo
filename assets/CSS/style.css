@@ -103,8 +103,10 @@ div.col-4 {
     opacity: 89%;
 }
 
-.nav-link {
+a.nav-link {
     font-family: 'Chakra Petch';
+    color: #6c757d;
+    text-decoration: none;
 }
 
 footer {
