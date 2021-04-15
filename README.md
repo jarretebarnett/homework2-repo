@@ -20,7 +20,6 @@ While crafting the page, I settled on a neutral color scheme that is still eye c
 AS A USER I want to view the subjects work history.
 WHEN I click on destinations, I want to view internal links internally, and external links externaly.
 SO THAT I can have a smooth navigation while surveying the subjects work.
-
 ```
 
 ## Screenshots
