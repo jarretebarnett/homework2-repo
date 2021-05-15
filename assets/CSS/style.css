@@ -48,7 +48,7 @@ h5 {
 
 p {
     margin-top: 10px;
-    font-size: 11px;
+    font-size: 12px;
     opacity: 89%;
 }
 
@@ -58,6 +58,13 @@ p {
     text-align: center;
     font-family: 'Chakra Petch';
 }
+
+/* .card.mb-3 {
+    background-color: #212529e1;
+    color: snow;
+    text-align: center;
+    font-family: 'Chakra Petch';
+} */
 
 .card:hover {
     transform: scale(1.025);
@@ -91,7 +98,7 @@ div.row {
     flex-flow: wrap;
 }
 
-div.col-4 {
+div.col-5 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -107,6 +114,10 @@ a.nav-link {
     font-family: 'Chakra Petch';
     color: #6c757d;
     text-decoration: #6c757d;
+}
+
+img {
+    opacity: 89%;
 }
 
 footer {
