@@ -10,8 +10,12 @@ html {
 body {
     background-color: #6c757d;
     background-image: url(../Images/GrayBuilding.jpeg);
-    background-attachment: fixed;
     background-size: cover;
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    background-attachment: fixed;
     /* display: flex;
     flex-direction: column;
     min-height: 100%; */
