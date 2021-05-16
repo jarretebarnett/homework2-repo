@@ -342,11 +342,11 @@
   END NORMALIZE CSS
   =================
   */
-  *,
+  /* *,
   *::before,
   *::after {
     box-sizing: border-box;
-  }
+  } */
   
   /* html,
   body {
