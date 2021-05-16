@@ -361,7 +361,7 @@
     color: #1a1a1a;
   }
   
-  h1,
+  /* h1,
   h2,
   h3,
   h4,
@@ -375,9 +375,9 @@
     font-size: 2.25rem;
   }
   
-  /* h2 {
+  h2 {
     font-size: 2rem;
-  } */
+  }
   
   h3 {
     font-size: 1.75rem;
@@ -393,7 +393,7 @@
   
   h6 {
     font-size: 1rem;
-  }
+  } */
   
   p {
     /* font-size: 1.1rem; */
