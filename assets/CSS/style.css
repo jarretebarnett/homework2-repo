@@ -9,16 +9,16 @@ html {
 
 body {
     background-color: #6c757d;
+}
+
+.container-fluid {
+    background-color: #6c757d;
     background-image: url(../Images/GrayBuilding.jpeg);
     background-size: cover;
-    /* -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; */
     background-attachment: fixed;
-    /* display: flex;
+    display: flex;
     flex-direction: column;
-    min-height: 100%; */
+    min-height: 100%;
 }
 
 nav.navbar {
@@ -65,13 +65,6 @@ p {
     font-family: 'Chakra Petch';
     padding-bottom: 7px;
 }
-
-/* .card.mb-3 {
-    background-color: #212529e1;
-    color: snow;
-    text-align: center;
-    font-family: 'Chakra Petch';
-} */
 
 .card:hover {
     transform: scale(1.025);
